@@ -42,7 +42,7 @@ It's possible to [configure SEO](../Settings/Specific-Settings/#seo) for the Sea
 
 ## Sitemap
 
-The Sitemap content type can only be added a subpage under the root page in the Content tree. An item based on this content type is part of the starter/default content, which means it will rarely be necessary to create a new instance of this.
+The Sitemap content type can only be added as a subpage under the root page in the Content tree. An item based on this content type is part of the starter/default content, which means it will rarely be necessary to create a new instance of this.
 
 A sitemap is primarily used to further the SEO of websites. It will contain a list of all content and media items on the websites, while also giving search engines details about what type of content each item contains and the relation between them.
 
