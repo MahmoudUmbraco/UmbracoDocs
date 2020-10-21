@@ -2,9 +2,9 @@
 versionFrom: 8.0.0
 ---
 
-# Sample site in Unbraco UNO
+# Sample site in Umbraco UNO
 
-Most unbraco UNO projects ships with a sample website for the imaginary **Unikorn Hotel and Spa**.
+Most umbraco UNO projects ships with a sample website for the imaginary **Unicorn Hotel and Spa**.
 
 
 The site is created to showcase all the main features of unbraco UNO.
@@ -46,10 +46,10 @@ To empty the recycle bin, follow these steps:
 1. Right-click the "Recycle bin" at the bottom of the Content tree
 2. Select "Empty recycle bin..." and click "OK" to confirm the deletion
 
-Once you've deleted all unwanted content and wigets, you can start building your own site. Start by renaming the start page from "Unikorn Hotel" to the name of your company or whatever else you want to call it.
+Once you've deleted all unwanted content and widgets, you can start building your own site. Start by renaming the start page from "Unicorn Hotel" to the name of your company or whatever else you want to call it.
 
 :::note
-If you want to do a more thorough cleanup, you can also head over to the Media section in the Backoffice to delete any images and media files that you do not need on your own website.
+If you want to do a more through cleanup, you can also head over to the Media section in the Backoffice to delete any images and media files that you do not need on your own website.
 
 Deleting media is similar to deleting content. You can read more about it in the [Manage Media library](../../Creating-Content/Manage-Media-library) article.
 :::
